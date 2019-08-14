@@ -1,0 +1,16 @@
+{
+  "name": "spryker-feature/configurable-bundle",
+  "description": "Configurable Bundle [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.1"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2018.x-dev"
+    }
+  }
+}
