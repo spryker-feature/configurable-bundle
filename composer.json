@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.1",
+    "php": ">=7.2",
     "spryker-shop/configurable-bundle-widget": "^1.0.0",
     "spryker-shop/sales-configurable-bundle-widget": "^1.0.0",
     "spryker/configurable-bundle": "^2.0.0",
