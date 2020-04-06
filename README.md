@@ -7,3 +7,7 @@ Configurable Bundle is a self-explaining feature that allows you to create a con
 ```
 composer require spryker-feature/configurable-bundle
 ```
+
+## Optional modules
+- [ConfigurableBundleGuiExtension ^1.0.0](https://github.com/spryker/configurable-bundle-gui-extension) (Extension)
+- [ConfigurableBundlePageSearchExtension ^1.0.0](https://github.com/spryker/configurable-bundle-page-search-extension) (Extension)
