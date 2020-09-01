@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
-    "spryker-shop/configurable-bundle-note-widget": "^1.0.0",
     "spryker-shop/configurable-bundle-page": "^1.0.0",
     "spryker-shop/configurable-bundle-widget": "^1.0.0",
     "spryker-shop/sales-configurable-bundle-widget": "^1.0.0",
@@ -15,14 +14,13 @@
     "spryker/configurable-bundle-cart": "^1.0.0",
     "spryker/configurable-bundle-data-import": "^0.2.0",
     "spryker/configurable-bundle-gui": "^1.0.0",
-    "spryker/configurable-bundle-note": "^1.0.0",
     "spryker/configurable-bundle-page-search": "^1.0.0",
     "spryker/configurable-bundle-storage": "^2.0.0",
     "spryker/sales-configurable-bundle": "^1.0.0"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202006.x-dev"
+      "dev-master": "202009.x-dev"
     }
   }
 }
