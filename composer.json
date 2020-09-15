@@ -7,6 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
+    "spryker-shop/configurable-bundle-note-widget": "^1.0.0",
     "spryker-shop/configurable-bundle-page": "^1.2.0",
     "spryker-shop/configurable-bundle-widget": "^1.5.0",
     "spryker-shop/sales-configurable-bundle-widget": "^1.4.0",
@@ -14,6 +15,7 @@
     "spryker/configurable-bundle-cart": "^1.2.0",
     "spryker/configurable-bundle-data-import": "^0.2.0",
     "spryker/configurable-bundle-gui": "^1.1.0",
+    "spryker/configurable-bundle-note": "^1.0.0",
     "spryker/configurable-bundle-page-search": "^1.2.0",
     "spryker/configurable-bundle-storage": "^2.4.0",
     "spryker/sales-configurable-bundle": "^1.4.0"
