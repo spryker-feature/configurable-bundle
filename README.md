@@ -13,4 +13,4 @@ composer require spryker-feature/configurable-bundle
 - [ConfigurableBundleGuiExtension ^1.0.0](https://github.com/spryker/configurable-bundle-gui-extension) (Extension)
 - [ConfigurableBundlePageSearchExtension ^1.1.0](https://github.com/spryker/configurable-bundle-page-search-extension) (Extension)
 - [ConfigurableBundlesProductsResourceRelationship ^1.0.0](https://github.com/spryker/configurable-bundles-products-resource-relationship) (Glue)
-- [ConfigurableBundlesRestApi ^1.0.0](https://github.com/spryker/configurable-bundles-rest-api) (Glue)
+- [ConfigurableBundlesRestApi ^1.1.0](https://github.com/spryker/configurable-bundles-rest-api) (Glue)
