@@ -2,6 +2,8 @@
 
 Configurable Bundle is a self-explaining feature that allows you to create a configurable list of items. With this list, Customer can easily choose what products to add to the cart as Bundles. Configurable bundle is a guiding tool that simplifies purchasing of complex products requiring expertise or specific knowledge.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/product-information-management/202307.0/base-shop/feature-overviews/configurable-bundle-feature-overview.html)
+
 ## Installation
 
 ```
