@@ -14,7 +14,7 @@
         "spryker/configurable-bundle": "^2.5.0",
         "spryker/configurable-bundle-cart": "^1.6.0",
         "spryker/configurable-bundle-data-import": "^0.2.0",
-        "spryker/configurable-bundle-gui": "^1.4.0",
+        "spryker/configurable-bundle-gui": "^2.0.0",
         "spryker/configurable-bundle-note": "^1.2.0",
         "spryker/configurable-bundle-page-search": "^1.4.0",
         "spryker/configurable-bundle-storage": "^2.6.0",
@@ -22,7 +22,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202510.x-dev"
         }
     }
 }
